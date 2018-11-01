@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapper namespace="com.wxl.dao.UserDao">
+
+    <!-- 查询所有用户 -->
+    <select id="findAll" resultType="com.wxl.domain.User">
+        SELECT * FROM user;
+    </select>
+
+    <!-- 通过id查询用户 -->
+    <select id="findOne" resultType="com.wxl.domain.User" parameterType="java.lang.Integer">
+        select * from user where id = #{uid}
+    </select>
+
+</mapper>
