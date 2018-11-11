@@ -1,0 +1,8 @@
+com\wxl\dao\IOrderDao.class
+com\wxl\dao\IUserDao.class
+com\wxl\dao\IPermissionDao.class
+com\wxl\dao\IProductDao.class
+com\wxl\dao\ISysLogDao.class
+com\wxl\dao\IMemberDao.class
+com\wxl\dao\IRoleDao.class
+com\wxl\dao\ITravellerDao.class

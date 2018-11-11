@@ -1,0 +1,8 @@
+com\wxl\domain\User.class
+com\wxl\domain\Permission.class
+com\wxl\domain\Product.class
+com\wxl\domain\Traveller.class
+com\wxl\domain\Orders.class
+com\wxl\domain\Role.class
+com\wxl\domain\SysLog.class
+com\wxl\domain\Member.class

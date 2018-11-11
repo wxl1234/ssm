@@ -1,0 +1,12 @@
+com\wxl\service\IUserService.class
+com\wxl\service\impl\SysLogServiceImpl.class
+com\wxl\service\IOrdersService.class
+com\wxl\service\IRoleService.class
+com\wxl\service\impl\OrdersServiceImpl.class
+com\wxl\service\impl\PermissionServiceImpl.class
+com\wxl\service\impl\ProductServiceImpl.class
+com\wxl\service\IPermissionService.class
+com\wxl\service\ISysLogService.class
+com\wxl\service\IProduceService.class
+com\wxl\service\impl\UserServiceImpl.class
+com\wxl\service\impl\RoleServiceImpl.class
